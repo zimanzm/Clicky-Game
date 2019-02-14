@@ -1,0 +1,16 @@
+.header {
+  background-color:#ff94cb;
+  background-image: url("/assets/images/food.png");
+  background-repeat: repeat;
+  color: hotpink;
+  min-height: 400px;
+  padding: 180px 20px; 
+  padding-bottom: 140px;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  margin-bottom: 30px;
+  font-size: 4rem;
+}
